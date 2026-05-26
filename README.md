@@ -9,7 +9,7 @@ Just a goofy individual trying programming 🤡🤡🤡
 
 ---
 
-[![Teramoto's Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=320)](https://github.com/Teramoto669/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages by Repo](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=donut&card_width=320&langs_count=4)](https://github.com/Teramoto669/github-readme-stats)
+[![Teramoto's Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=320)](https://github.com/Teramoto669/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages by Repo](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=donut&langs_count=4)](https://github.com/Teramoto669/github-readme-stats)
 
 ---
 ## ✉️ Contacts
