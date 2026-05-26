@@ -1,5 +1,5 @@
 ## ⭐ About Me:
-Just a goofy individual trying programming 💀💀💀
+Just a goofy individual trying programming 🤡🤡🤡
 
 
 
