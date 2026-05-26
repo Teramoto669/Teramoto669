@@ -8,3 +8,8 @@ Just a goofy individual trying programming 🤡🤡🤡
 
 ## 📖 Top Languages
 [![Top Languages by Repo](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=donut)](https://github.com/Teramoto669/github-readme-stats)
+
+---
+## ✉️ Contacts
+
+[![GitHub](https://img.shields.io/badge/GitHub-Teramoto669-181717?logo=github&logoColor=white)](https://github.com/Teramoto669) [![Email](https://img.shields.io/badge/Email-rezhashahidzindarb%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rezhashahidzindarb@gmail.com)
