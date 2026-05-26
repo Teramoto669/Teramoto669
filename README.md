@@ -1,4 +1,4 @@
-## ⭐ About Me:
+## ⭐ About Me
 Just a goofy individual trying programming 🤡
 
 <img width="361" height="332.5" alt="pngegg" src="https://github.com/user-attachments/assets/ee9c936f-abc0-4d78-8a0e-824c8fd1e88e" />
