@@ -7,10 +7,12 @@ Just a goofy individual trying programming 🤡
 
 ## 📊 Github Stats
 <p align="center">
+	<a href="https://github.com/Teramoto669">
 		<img src="https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=300" alt="Teramoto's Github Stats" />
+	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/Teramoto669/github-readme-stats">
+	<a href="https://github.com/Teramoto669">
 		<img src="https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=compact&langs_count=6&card_width=420" alt="Top Languages by Repo" />
 	</a>
 </p>
