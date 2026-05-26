@@ -19,5 +19,13 @@ Just a goofy individual trying programming 🤡
 
 ---
 ## ✉️ Contacts
-
-[![GitHub](https://img.shields.io/badge/GitHub-Teramoto669-181717?logo=github&logoColor=white)](https://github.com/Teramoto669) [![Email](https://img.shields.io/badge/Email-rezhashahidzindarb%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rezhashahidzindarb@gmail.com)
+<p align=center>
+	<a href="https://github.com/Teramoto669">
+		<img src="https://img.shields.io/badge/GitHub-Teramoto669-181717?logo=github&logoColor=white" />
+	</a>
+</p>
+<p align=center>
+	<a href="mailto:rezhashahidzindarb@gmail.com">
+		<img src="[https://img.shields.io/badge/GitHub-Teramoto669-181717?logo=github&logoColor=white](https://img.shields.io/badge/Email-rezhashahidzindarb%40gmail.com-D14836?logo=gmail&logoColor=white)" />
+	</a>
+</p>
