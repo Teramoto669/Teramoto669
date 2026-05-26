@@ -5,4 +5,4 @@ Just a goofy individual trying programming 🤡🤡🤡
 [![Teramoto's Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical)](https://github.com/Teramoto669/github-readme-stats)
 
 ## 📖 Top Languages
-[![Top Languages by Repo](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=pie)](https://github.com/Teramoto669/github-readme-stats)
+[![Top Languages by Repo](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=donut-vertical)](https://github.com/Teramoto669/github-readme-stats)
