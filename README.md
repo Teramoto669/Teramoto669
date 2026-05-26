@@ -2,6 +2,6 @@
 Just a goofy individual trying programming 🤡🤡🤡
 
 ## 📊 Github Stats
-[![Teramoto's Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=merko)](https://github.com/Teramoto669/github-readme-stats)
+[![Teramoto's Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=synthwave)](https://github.com/Teramoto669/github-readme-stats)
 
 
