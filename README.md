@@ -7,16 +7,10 @@ Just a goofy individual trying programming 🤡
 
 ## 📊 Github Stats
 
-[![Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=300)](https://github.com/Teramoto669)
+[![Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=300)](https://github.com/Teramoto669) <br>
 [![Languages](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=compact&langs_count=6&card_width=420)](https://github.com/Teramoto669)
 
 ---
 ## ✉️ Contacts
-<p align=center>
-	<a href="https://github.com/Teramoto669">
-		<img src="https://img.shields.io/badge/GitHub-Teramoto669-181717?logo=github&logoColor=white" />
-	</a>
-	<a href="mailto:rezhashahidzindarb@gmail.com">
-		<img src="https://img.shields.io/badge/Email-rezhashahidzindarb%40gmail.com-D14836?logo=gmail&logoColor=white" />
-	</a>
-</p>
+[![Github](https://img.shields.io/badge/GitHub-Teramoto669-181717?logo=github&logoColor=white)](https://github.com/Teramoto669)
+[![Email](https://img.shields.io/badge/Email-rezhashahidzindarb%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rezhashahidzindarb@gmail.com)
