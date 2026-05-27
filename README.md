@@ -6,16 +6,9 @@ Just a goofy individual trying programming 🤡
 ---
 
 ## 📊 Github Stats
-<p align="center">
-	<a href="https://github.com/Teramoto669">
-		<img src="https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=300" alt="Teramoto's Github Stats" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/Teramoto669">
-		<img src="https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=compact&langs_count=6&card_width=420" alt="Top Languages by Repo" />
-	</a>
-</p>
+
+[![Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=300)](https://github.com/Teramoto669)
+[![Languages](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=compact&langs_count=6&card_width=420)](https://github.com/Teramoto669)
 
 ---
 ## ✉️ Contacts
