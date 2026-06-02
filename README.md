@@ -8,7 +8,7 @@ Just a goofy individual who likes programming 🤡
 ## 📊 Github Stats
 
 [![Github Stats](https://github-readme-tera.vercel.app/api?username=Teramoto669&theme=radical&card_width=300?v=1)](https://github.com/Teramoto669) <br>
-[![Languages](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=compact&langs_count=6&card_width=420?v=1)](https://github.com/Teramoto669)
+[![Languages](https://github-readme-tera.vercel.app/api/top-langs/?username=Teramoto669&theme=radical&layout=compact&card_width=420?v=1)](https://github.com/Teramoto669)
 
 ---
 ## ✉️ Contacts
